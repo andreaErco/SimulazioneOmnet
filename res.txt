@@ -1,0 +1,113 @@
+----------------------------------------------------------------------------
+Exponential---> λ= 0.8 μ= 0.33:
+Mediana della distribuzione del tempo di risposta:[0.8627±0.0003] Intervallo di confidenza 95%
+Mediana della distribuzione del tempo di risposta del servente:[0.2288±0.0003] Intervallo di confidenza 95%
+Tempo medio di permanenza nel sistema dei job:[1.0739±0.0003] Intervallo di confidenza 95%
+Tempo Max di permanenza nel sistema dei job:[9.4681±0.0003] Intervallo di confidenza 95%
+Tempo Min di permanenza nel sistema dei job[1.46887236e-05±0.00031090077473480866] Intervallo di confidenza 95%
+Fattore di utilizzo del sistema risulta essere  < 1 ed il sistema può essere definito stabile
+------------------------------- Ws Primo Servente -------------------------------
+ (Ws Analitico) 0.5556 (Ws Omnett) 0.4602
+------------------------------- Ws Secondo Servente -------------------------------
+ (Ws Analitico) 0.5556 (Ws Omnett) 0.5264
+
+
+----------------------------------------------------------------------------
+Exponential---> λ= 1 μ= 0.33:
+Mediana della distribuzione del tempo di risposta:[0.7633±0.0004] Intervallo di confidenza 95%
+Mediana della distribuzione del tempo di risposta del servente:[0.2291±0.0004] Intervallo di confidenza 95%
+Tempo medio di permanenza nel sistema dei job:[0.9707±0.0004] Intervallo di confidenza 95%
+Tempo Max di permanenza nel sistema dei job:[8.9515±0.0004] Intervallo di confidenza 95%
+Tempo Min di permanenza nel sistema dei job[1.1137265733333333e-05±0.00038321399728723406] Intervallo di confidenza 95%
+Fattore di utilizzo del sistema risulta essere  < 1 ed il sistema può essere definito stabile
+------------------------------- Ws Primo Servente -------------------------------
+ (Ws Analitico) 0.5000 (Ws Omnett) 0.4098
+------------------------------- Ws Secondo Servente -------------------------------
+ (Ws Analitico) 0.5000 (Ws Omnett) 0.6411
+
+
+----------------------------------------------------------------------------
+Exponential---> λ= 0.8 μ= 0.25:
+Mediana della distribuzione del tempo di risposta:[0.5628±0.0003] Intervallo di confidenza 95%
+Mediana della distribuzione del tempo di risposta del servente:[0.1733±0.0003] Intervallo di confidenza 95%
+Tempo medio di permanenza nel sistema dei job:[0.7193±0.0003] Intervallo di confidenza 95%
+Tempo Max di permanenza nel sistema dei job:[6.8149±0.0003] Intervallo di confidenza 95%
+Tempo Min di permanenza nel sistema dei job[1.0597225866666667e-05±0.00030035210684564945] Intervallo di confidenza 95%
+Fattore di utilizzo del sistema risulta essere  < 1 ed il sistema può essere definito stabile
+------------------------------- Ws Primo Servente -------------------------------
+ (Ws Analitico) 0.3571 (Ws Omnett) 0.2832
+------------------------------- Ws Secondo Servente -------------------------------
+ (Ws Analitico) 0.3571 (Ws Omnett) 0.5321
+
+
+----------------------------------------------------------------------------
+Exponential---> λ= 0.7 μ= 0.33:
+Mediana della distribuzione del tempo di risposta:[0.9450±0.0004] Intervallo di confidenza 95%
+Mediana della distribuzione del tempo di risposta del servente:[0.2286±0.0004] Intervallo di confidenza 95%
+Tempo medio di permanenza nel sistema dei job:[1.1634±0.0004] Intervallo di confidenza 95%
+Tempo Max di permanenza nel sistema dei job:[9.7706±0.0004] Intervallo di confidenza 95%
+Tempo Min di permanenza nel sistema dei job[1.24222964e-05±0.0003890408324098202] Intervallo di confidenza 95%
+Fattore di utilizzo del sistema risulta essere  < 1 ed il sistema può essere definito stabile
+------------------------------- Ws Primo Servente -------------------------------
+ (Ws Analitico) 0.6250 (Ws Omnett) 0.5922
+------------------------------- Ws Secondo Servente -------------------------------
+ (Ws Analitico) 0.6250 (Ws Omnett) 0.8747
+
+
+----------------------------------------------------------------------------
+Exponential---> λ= 0.5 μ= 0.25:
+Mediana della distribuzione del tempo di risposta:[0.7491±0.0002] Intervallo di confidenza 95%
+Mediana della distribuzione del tempo di risposta del servente:[0.1733±0.0002] Intervallo di confidenza 95%
+Tempo medio di permanenza nel sistema dei job:[0.9175±0.0002] Intervallo di confidenza 95%
+Tempo Max di permanenza nel sistema dei job:[7.7679±0.0002] Intervallo di confidenza 95%
+Tempo Min di permanenza nel sistema dei job[6.5176919333333334e-06±0.00019916516398329912] Intervallo di confidenza 95%
+Fattore di utilizzo del sistema risulta essere  < 1 ed il sistema può essere definito stabile
+------------------------------- Ws Primo Servente -------------------------------
+ (Ws Analitico) 0.5000 (Ws Omnett) 0.4578
+------------------------------- Ws Secondo Servente -------------------------------
+ (Ws Analitico) 0.5000 (Ws Omnett) 0.6789
+
+
+----------------------------------------------------------------------------
+Exponential---> λ= 0.7 μ= 0.25:
+Mediana della distribuzione del tempo di risposta:[0.6009±0.0003] Intervallo di confidenza 95%
+Mediana della distribuzione del tempo di risposta del servente:[0.1731±0.0003] Intervallo di confidenza 95%
+Tempo medio di permanenza nel sistema dei job:[0.7589±0.0003] Intervallo di confidenza 95%
+Tempo Max di permanenza nel sistema dei job:[6.8680±0.0003] Intervallo di confidenza 95%
+Tempo Min di permanenza nel sistema dei job[7.481289133333333e-06±0.00030252501665610254] Intervallo di confidenza 95%
+Fattore di utilizzo del server[0.2630±0.0003] Intervallo di confidenza 95%
+Fattore di utilizzo del sistema risulta essere  < 1 ed il sistema può essere definito stabile
+------------------------------- Ws Primo Servente -------------------------------
+ (Ws Analitico) 0.3846 (Ws Omnett) 0.3115
+------------------------------- Ws Secondo Servente -------------------------------
+ (Ws Analitico) 0.3846 (Ws Omnett) 0.4159
+
+
+----------------------------------------------------------------------------
+Exponential---> λ= 0.5 μ= 0.33:
+Mediana della distribuzione del tempo di risposta:[1.3209±0.0003] Intervallo di confidenza 95%
+Mediana della distribuzione del tempo di risposta del servente:[0.2287±0.0003] Intervallo di confidenza 95%
+Tempo medio di permanenza nel sistema dei job:[1.5989±0.0003] Intervallo di confidenza 95%
+Tempo Max di permanenza nel sistema dei job:[12.2928±0.0003] Intervallo di confidenza 95%
+Tempo Min di permanenza nel sistema dei job[2.0584674733333335e-05±0.00025989405843701785] Intervallo di confidenza 95%
+Fattore di utilizzo del sistema risulta essere  < 1 ed il sistema può essere definito stabile
+------------------------------- Ws Primo Servente -------------------------------
+ (Ws Analitico) 1.0000 (Ws Omnett) 0.8967
+------------------------------- Ws Secondo Servente -------------------------------
+ (Ws Analitico) 1.0000 (Ws Omnett) 1.0223
+
+
+----------------------------------------------------------------------------
+Exponential---> λ= 1 μ= 0.33:
+Mediana della distribuzione del tempo di risposta:[0.7633±0.0004] Intervallo di confidenza 95%
+Mediana della distribuzione del tempo di risposta del servente:[0.2291±0.0004] Intervallo di confidenza 95%
+Tempo medio di permanenza nel sistema dei job:[0.9707±0.0004] Intervallo di confidenza 95%
+Tempo Max di permanenza nel sistema dei job:[8.9515±0.0004] Intervallo di confidenza 95%
+Tempo Min di permanenza nel sistema dei job[1.1137265733333333e-05±0.00038321399728723406] Intervallo di confidenza 95%s
+Fattore di utilizzo del sistema risulta essere  < 1 ed il sistema può essere definito stabile
+------------------------------- Ws Primo Servente -------------------------------
+ (Ws Analitico) 0.5000 (Ws Omnett) 0.4398
+------------------------------- Ws Secondo Servente -------------------------------
+ (Ws Analitico) 0.5000 (Ws Omnett) 0.6411
+
+
